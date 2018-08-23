@@ -7,12 +7,16 @@ Testing for Recipe-Creator was done using Rspec and Jasmine/Enzyme. Tests are lo
 
 To Launch the application
 ➜ Clone repository
+```
 ➜ bundle install
 ➜ yarn install
 ➜ bundle exec bin/rails db:create
 ➜ bundle exec bin/rails db:migrate
 ➜ bundle exec bin/rails db:seed
 ➜ bundle exec bin/rails s
+```
   ~ (in another terminal window)
+ ```
 ➜ yarn run start
-  ~ (visit http://localhost:3000)
+```
+~ (visit http://localhost:3000)
