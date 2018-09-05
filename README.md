@@ -20,3 +20,5 @@ To Launch the application
 ➜ yarn run start
 ```
 ~ (visit http://localhost:3000)
+
+I will be updating this project over time
